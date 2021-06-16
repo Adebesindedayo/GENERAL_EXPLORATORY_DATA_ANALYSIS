@@ -1,4 +1,4 @@
-Date,RegionID,RegionName,State,Metro,County,SizeRank,Zhvi
+Date,RegionID,RegionName,State,Metro,County,SizeRank,Price
 2017-05-31,6181,New York,NY,New York,Queens,0,672400
 2017-05-31,12447,Los Angeles,CA,Los Angeles-Long Beach-Anaheim,Los Angeles,1,629900
 2017-05-31,17426,Chicago,IL,Chicago,Cook,2,222700
